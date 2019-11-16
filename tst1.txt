@@ -1,2 +1,3 @@
 new branch
 this is master, pl keep it
+modified new  branch
