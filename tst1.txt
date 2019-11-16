@@ -1,2 +1,2 @@
 new branch
-is not master
+this is master
